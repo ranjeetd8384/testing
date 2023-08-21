@@ -7,6 +7,6 @@
   + Learn markdown
   - Write markdown
 
-*This is italic text*
+This is **Github** logo 
 
 <img src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" alt="Alt Text" width="300">
